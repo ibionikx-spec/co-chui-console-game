@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Souce/co-chui-console-game/souce/View/Controller",
-      "program": "d:/Souce/co-chui-console-game/souce/View/Controller/build/Debug/outDebug",
+      "cwd": "d:/Souce/co-chui-console-game",
+      "program": "d:/Souce/co-chui-console-game/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
